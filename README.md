@@ -13,7 +13,7 @@
 
 <div align="center">
   <h2>What I'm Working On</h2>
-  <p>I am currently not working on anything big, mostly just exploring fun API's and how to make Servers with Java!</p>
+  <p>I am currently not working on anything big, mostly just exploring fun API's and learning how to make Servers with Java!</p>
 </div>
   
 <br/>
