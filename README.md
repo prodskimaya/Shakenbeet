@@ -40,6 +40,11 @@
   <img src="https://img.shields.io/badge/Prodski⋕2432-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=shakenbeet&count_private=true"/>
+    <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakenbeet&layout=compact"/>
+</div>
 
   
 
