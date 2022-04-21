@@ -19,7 +19,7 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p>I am a software programmer located in Texas who specialized in making video games</p>
+  <p>I am a software programmer located in Texas who specializes in making video games</p>
 </div>
 
 <br/>
