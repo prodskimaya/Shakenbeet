@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/68769498?v=4" style="width: 250px; height: 250px;">
-  <h1>Welcome to my Profile!</h1>
+  <h1>Welcome to my Profile</h1>
   </img>
   <img src="https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -19,21 +19,21 @@
 
 <div align="center">
   <h2>About Me</h2>
-  <p>I am a software programming hobbyist from Texas who enjoys making software of all types like Websites, Desktop Apps, Games, and more!</p>
+  <p>I am a software programmer located in Texas who specialized in making video games</p>
 </div>
 
 <br/>
 
 <div align="center">
   <h2>What I'm Doing</h2>
-  <p>I am currently learning the Unity Engine and participating in Game Jams. I am also interested in other game frameworks such as Raylib and Love2D right now.</p>
+  <p>I am currently learning the Unity Engine and attempting to make games with it.</p>
 </div>
   
 <br/>
   
 <div align="center">
   <h2 align="center">Reach Out to Me</h2>
-  <p>Want to chat about programming or almond milk? Contact me!</p>
+  <p>Contacts</p>
   <a href="mailto:lukeybuzzukey@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
