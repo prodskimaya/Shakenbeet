@@ -2,18 +2,16 @@
   <img src="https://avatars.githubusercontent.com/u/68769498?v=4" style="width: 250px; height: 250px;">
   <h1>Welcome to my Profile</h1>
   </img>
+  <img src="https://img.shields.io/badge/ARM-grey?style=for-the-badge&logo=macos&logoColor=white&label=MacOS&labelColor=black&color=blue"/>
+  <br/>
   <img src="https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <br/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/xcode-white?style=for-the-badge&logo=apple&logoColor=black"/>
   <br/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-  <br/>
+  <img src="https://img.shields.io/badge/UE5-black?style=for-the-badge&logo=unrealengine&color=black"/>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
